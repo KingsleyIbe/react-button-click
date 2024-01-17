@@ -1,0 +1,26 @@
+{
+  "name": "react-button-click",
+  "version": "1.0.0",
+  "description": "react-buuton-click is an npm library that allows you to use custom react button component in your projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingsleyIbe/react-button-click.git"
+  },
+  "keywords": [
+    "react-button",
+    "react",
+    "button",
+    "btn",
+    "click"
+  ],
+  "author": "Kingsley Ibe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingsleyIbe/react-button-click/issues"
+  },
+  "homepage": "https://github.com/KingsleyIbe/react-button-click#readme"
+}
